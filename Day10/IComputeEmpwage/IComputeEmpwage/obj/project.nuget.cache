@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXi5DSkJ3Haf5No4WZjATezuTXZjnRMa638h+PFNQxoIcwZ6Fe5ycsrS0uEHEyVFiw2Km9CCjiFnclHjw+uz1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kranthi\\Desktop\\Bridgelabz\\LogicPrograms\\Day10\\IComputeEmpwage\\IComputeEmpwage\\IComputeEmpwage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kranthi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kranthi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kranthi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kranthi\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
